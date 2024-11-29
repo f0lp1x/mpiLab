@@ -1,0 +1,17 @@
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\bin\Debug\net8.0\ParallelSort.exe
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\bin\Debug\net8.0\ParallelSort.deps.json
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\bin\Debug\net8.0\ParallelSort.runtimeconfig.json
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\bin\Debug\net8.0\ParallelSort.dll
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\bin\Debug\net8.0\ParallelSort.pdb
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\bin\Debug\net8.0\MPI.dll
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\ParallelSort.csproj.AssemblyReference.cache
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\ParallelSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\ParallelSort.AssemblyInfoInputs.cache
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\ParallelSort.AssemblyInfo.cs
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\ParallelSort.csproj.CoreCompileInputs.cache
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\Parallel.1DAA5C26.Up2Date
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\ParallelSort.dll
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\refint\ParallelSort.dll
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\ParallelSort.pdb
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\ParallelSort.genruntimeconfig.cache
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net8.0\ref\ParallelSort.dll

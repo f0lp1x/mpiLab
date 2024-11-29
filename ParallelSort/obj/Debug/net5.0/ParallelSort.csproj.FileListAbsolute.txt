@@ -1,0 +1,5 @@
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net5.0\ParallelSort.csproj.AssemblyReference.cache
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net5.0\ParallelSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net5.0\ParallelSort.AssemblyInfoInputs.cache
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net5.0\ParallelSort.AssemblyInfo.cs
+C:\Users\amirk\OneDrive\Рабочий стол\ParallelSort\ParallelSort\obj\Debug\net5.0\ParallelSort.csproj.CoreCompileInputs.cache
